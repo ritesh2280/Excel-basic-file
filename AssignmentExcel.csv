@@ -1,0 +1,21 @@
+Order ID,Region,Salesperson,Product,Category,Units,Date,Unit Price,Customer Type,Groals selas,NET SALE,PRFORMANCE,Discount
+O1001,North,Aarav,Laptop,Electronics,3,05-Jan-2026,55000,Retail,165000,156750.0,HIGH,0.05
+O1002,West,Diya,Monitor,Electronics,5,07-Jan-2026,18000,Corporate,90000,90000.0,NORMAL,0.0
+O1003,South,Kabir,Keyboard,Accessories,12,09-Jan-2026,2200,Retail,26400,23760.0,NORMAL,0.1
+O1004,East,Meera,Printer,Office,4,12-Jan-2026,14500,Corporate,58000,55100.0,NORMAL,0.05
+O1005,North,Aarav,Mouse,Accessories,20,15-Jan-2026,900,Retail,18000,18000.0,NORMAL,0.0
+O1006,West,Riya,Laptop,Electronics,2,18-Jan-2026,56000,Corporate,112000,103040.0,HIGH,0.08
+O1007,South,Kabir,Monitor,Electronics,7,21-Jan-2026,17500,Retail,122500,116375.0,HIGH,0.05
+O1008,East,Meera,Keyboard,Accessories,15,24-Jan-2026,2100,Retail,31500,28350.0,NORMAL,0.1
+O1009,North,Zoya,Printer,Office,6,28-Jan-2026,15000,Corporate,90000,90000.0,NORMAL,0.0
+O1010,West,Riya,Mouse,Accessories,25,02-Feb-2026,850,Retail,21250,20187.5,NORMAL,0.05
+O1011,South,Kabir,Laptop,Electronics,4,05-Feb-2026,54500,Corporate,218000,196200.0,HIGH,0.1
+O1012,East,Meera,Monitor,Electronics,8,09-Feb-2026,18200,Retail,145600,145600.0,HIGH,0.0
+O1013,North,Zoya,Keyboard,Accessories,10,08-Mar-2026,2300,Retail,23000,21850.0,NORMAL,0.0
+O1014,West,Riya,Printer,Office,5,13-Feb-2026,14800,Corporate,74000,68080.0,NORMAL,0.1
+O1015,South,Kabir,Mouse,Accessories,18,17-Feb-2026,880,Retail,15840,15840.0,NORMAL,0.05
+O1016,East,Meera,Laptop,Electronics,3,21-Feb-2026,57000,Corporate,171000,162450.0,HIGH,0.08
+O1017,North,Aarav,Monitor,Electronics,6,21-Feb-2026,17900,Retail,107400,107400.0,HIGH,0.0
+O1018,West,Riya,Keyboard,Accessories,14,19-Mar-2026,2250,Retail,31500,28350.0,NORMAL,0.05
+O1019,South,Kabir,Printer,Office,7,25-Feb-2026,14600,Corporate,102200,97090.0,NORMAL,0.0
+O1020,East,Meera,Mouse,Accessories,22,03-Mar-2026,920,Retail,20240,20240.0,NORMAL,0.05
